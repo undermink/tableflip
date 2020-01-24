@@ -4,4 +4,4 @@ You just have to run the script like `./flip.py` and it will open a port (eg. 10
 If you visit it with your browser (http://localhost:10001) you will hopefully get a tableflip response :)
 
 ## License
-WFTPL
+WTFPL
